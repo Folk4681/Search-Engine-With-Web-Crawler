@@ -1,0 +1,70 @@
+vtables@quickrabbit ~/Desktop/CS 600/project $ python webCrawler.py
+/wiki/Leather
+/wiki/Ostrich_leather
+/wiki/DeBeers
+/wiki/Industrial_diamonds
+/wiki/International_Standard_Book_Number
+/wiki/Mathematical_proof
+/wiki/Pythagorean_theorem
+/wiki/Cartesian_coordinate_system
+/wiki/Orthogonal
+vtables@quickrabbit ~/Desktop/CS 600/project $ ./out
+Crawled 1 page(s) so far.
+----------------
+Crawled 2 page(s) so far.
+----------------
+Crawled 3 page(s) so far.
+----------------
+Crawled 4 page(s) so far.
+----------------
+Crawled 5 page(s) so far.
+----------------
+Crawled 6 page(s) so far.
+----------------
+Crawled 7 page(s) so far.
+----------------
+Crawled 8 page(s) so far.
+----------------
+Crawled 9 page(s) so far.
+----------------
+Search something on the input pages (q to quit): wHAT
+The number of hits for input page #6 is: 10.
+The number of hits for input page #8 is: 5.
+The number of hits for input page #1 is: 5.
+The number of hits for input page #7 is: 4.
+The number of hits for input page #4 is: 4.
+The number of hits for input page #2 is: 4.
+The number of hits for input page #3 is: 3.
+The number of hits for input page #9 is: 2.
+The number of hits for input page #5 is: 2.
+Search time to produce results: 0.000166675 seconds
+
+Search something on the input pages (q to quit): fig
+The number of hits for input page #8 is: 2.
+Search time to produce results: 9.8862e-05 seconds
+
+Search something on the input pages (q to quit): #he
+Invalid input. You can only use alphanumeric characters, with spaces in between multiple tokens. Try again: !a
+
+Invalid input. You can only use alphanumeric characters, with spaces in between multiple tokens. Try again: the potato
+
+The word "potato" is not found in any of the input pages.
+The word "the" is a stop word, and is not included in the search.
+Search time to produce results: 6.8226e-05 seconds
+
+Search something on the input pages (q to quit): space ship spaceship spaceships
+The word "spaceship" is not found in any of the input pages.
+The word "spaceships" is not found in any of the input pages.
+The number of hits for input page #7 is: 68.
+The number of hits for input page #9 is: 35.
+The number of hits for input page #8 is: 29.
+The number of hits for input page #1 is: 16.
+The number of hits for input page #4 is: 9.
+The number of hits for input page #3 is: 9.
+The number of hits for input page #5 is: 8.
+The number of hits for input page #6 is: 1.
+The number of hits for input page #2 is: 1.
+Search time to produce results: 0.000192985 seconds
+
+Search something on the input pages (q to quit): 
+

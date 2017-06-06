@@ -1,0 +1,76 @@
+vtables@quickrabbit ~/Desktop/CS 600/project $ python webCrawler.py
+/wiki/Food
+/wiki/Bread
+/wiki/Dominican_Republic_cuisine
+/wiki/Geography_of_the_Dominican_Republic
+/wiki/Americas
+/wiki/North_America
+/wiki/Anguilla
+/wiki/Gibraltar
+/wiki/Gibraltar_Parliament
+vtables@quickrabbit ~/Desktop/CS 600/project $ g++ test.cpp -o out -std=c++11
+vtables@quickrabbit ~/Desktop/CS 600/project $ ./out
+Crawled 1 page(s) so far.
+----------------
+Crawled 2 page(s) so far.
+----------------
+Crawled 3 page(s) so far.
+----------------
+Crawled 4 page(s) so far.
+----------------
+Crawled 5 page(s) so far.
+----------------
+Crawled 6 page(s) so far.
+----------------
+Crawled 7 page(s) so far.
+----------------
+Crawled 8 page(s) so far.
+----------------
+Crawled 9 page(s) so far.
+----------------
+Search something on the input pages (q to quit): the natural
+The word "the" is a stop word, and is not included in the search.
+The number of hits for input page #1 is: 48.
+The number of hits for input page #8 is: 10.
+The number of hits for input page #2 is: 10.
+The number of hits for input page #7 is: 8.
+The number of hits for input page #9 is: 4.
+The number of hits for input page #5 is: 4.
+The number of hits for input page #6 is: 2.
+The number of hits for input page #4 is: 2.
+Search time to produce results: 0.000222804 seconds
+
+Search something on the input pages (q to quit): america
+The number of hits for input page #6 is: 737.
+The number of hits for input page #5 is: 413.
+The number of hits for input page #7 is: 40.
+The number of hits for input page #4 is: 33.
+The number of hits for input page #8 is: 4.
+The number of hits for input page #3 is: 3.
+The number of hits for input page #1 is: 3.
+Search time to produce results: 0.000120112 seconds
+
+Search something on the input pages (q to quit): american food
+The number of hits for input page #1 is: 834.
+The number of hits for input page #6 is: 195.
+The number of hits for input page #5 is: 159.
+The number of hits for input page #2 is: 119.
+The number of hits for input page #3 is: 22.
+The number of hits for input page #7 is: 17.
+The number of hits for input page #8 is: 4.
+The number of hits for input page #9 is: 3.
+Search time to produce results: 0.000130669 seconds
+
+Search something on the input pages (q to quit): american cuisine
+The number of hits for input page #1 is: 734.
+The number of hits for input page #2 is: 614.
+The number of hits for input page #6 is: 194.
+The number of hits for input page #3 is: 180.
+The number of hits for input page #5 is: 159.
+The number of hits for input page #7 is: 26.
+The number of hits for input page #8 is: 9.
+The number of hits for input page #9 is: 6.
+Search time to produce results: 0.000131677 seconds
+
+Search something on the input pages (q to quit): 
+

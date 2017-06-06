@@ -1,0 +1,108 @@
+vtables@quickrabbit ~/Desktop/CS 600/project $ python webCrawler.py
+/wiki/Computer_science
+/wiki/Algorithm
+/wiki/Control_flow
+/wiki/Coroutine
+/wiki/International_Standard_Book_Number
+/wiki/United_States_of_America
+/wiki/American_literature
+/wiki/1988_in_literature
+/wiki/Paulo_Coelho
+vtables@quickrabbit ~/Desktop/CS 600/project $ ./out
+Crawled 1 page(s) so far.
+----------------
+Crawled 2 page(s) so far.
+----------------
+Crawled 3 page(s) so far.
+----------------
+Crawled 4 page(s) so far.
+----------------
+Crawled 5 page(s) so far.
+----------------
+Crawled 6 page(s) so far.
+----------------
+Crawled 7 page(s) so far.
+----------------
+Crawled 8 page(s) so far.
+----------------
+Crawled 9 page(s) so far.
+----------------
+Search something on the input pages (q to quit): 3d
+The number of hits for input page #6 is: 16.
+The number of hits for input page #1 is: 9.
+The number of hits for input page #9 is: 1.
+The number of hits for input page #2 is: 1.
+Search time to produce results: 0.000114054 seconds
+
+Search something on the input pages (q to quit): algorithms
+The number of hits for input page #2 is: 228.
+The number of hits for input page #1 is: 19.
+The number of hits for input page #4 is: 5.
+The number of hits for input page #5 is: 4.
+Search time to produce results: 0.000111966 seconds
+
+Search something on the input pages (q to quit): math
+The number of hits for input page #5 is: 76.
+The number of hits for input page #1 is: 16.
+The number of hits for input page #2 is: 8.
+The number of hits for input page #7 is: 2.
+Search time to produce results: 0.000111708 seconds
+
+Search something on the input pages (q to quit): comp sci
+The number of hits for input page #1 is: 7.
+The number of hits for input page #6 is: 2.
+The number of hits for input page #3 is: 1.
+Search time to produce results: 0.000146145 seconds
+
+Search something on the input pages (q to quit): communications
+The number of hits for input page #1 is: 31.
+The number of hits for input page #6 is: 8.
+The number of hits for input page #2 is: 4.
+The number of hits for input page #7 is: 3.
+The number of hits for input page #4 is: 2.
+The number of hits for input page #3 is: 1.
+Search time to produce results: 0.000165928 seconds
+
+Search something on the input pages (q to quit): cs
+The number of hits for input page #1 is: 23.
+The number of hits for input page #2 is: 9.
+The number of hits for input page #6 is: 8.
+The number of hits for input page #4 is: 5.
+The number of hits for input page #3 is: 5.
+The number of hits for input page #9 is: 4.
+The number of hits for input page #7 is: 4.
+The number of hits for input page #5 is: 4.
+Search time to produce results: 0.000161271 seconds
+
+Search something on the input pages (q to quit): chicken soup
+The word "soup" is not found in any of the input pages.
+The number of hits for input page #6 is: 1.
+Search time to produce results: 0.000127047 seconds
+
+Search something on the input pages (q to quit): sue
+The number of hits for input page #6 is: 2.
+The number of hits for input page #2 is: 2.
+The number of hits for input page #8 is: 1.
+Search time to produce results: 0.000106865 seconds
+
+Search something on the input pages (q to quit): evangelical
+The number of hits for input page #6 is: 6.
+Search time to produce results: 0.000105989 seconds
+
+Search something on the input pages (q to quit): serious
+The number of hits for input page #7 is: 1.
+The number of hits for input page #6 is: 1.
+Search time to produce results: 0.000102936 seconds
+
+Search something on the input pages (q to quit): aquafina
+The word "aquafina" is not found in any of the input pages.
+Search time to produce results: 0.000121058 seconds
+
+Search something on the input pages (q to quit): aquafina water
+The word "aquafina" is not found in any of the input pages.
+The number of hits for input page #6 is: 46.
+The number of hits for input page #5 is: 4.
+The number of hits for input page #7 is: 3.
+The number of hits for input page #9 is: 1.
+Search time to produce results: 5.3924e-05 seconds
+
