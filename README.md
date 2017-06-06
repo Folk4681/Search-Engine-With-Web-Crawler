@@ -26,6 +26,6 @@ $ ./out
 
 
 ## Sample Outputs
-![alt_text](https://puu.sh/wcg2E/2df029ace3.png)
-![alt text](https://puu.sh/wcg1J/c5874fa7de.png)
+![alt_text](https://puu.sh/wcgar/9e89fe4313.png)
+![alt text](https://puu.sh/wcgbo/e4eaac8be2.png)
 ![alt text](https://puu.sh/wcfZ5/f51801a162.png)
